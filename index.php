@@ -1,5 +1,9 @@
 <?php
 
+
+require_once "./conexion.php";
+baseDatos::crearInstancia();
+
 $postcontrolador="paginas";
 $postaccion="inicio";
 

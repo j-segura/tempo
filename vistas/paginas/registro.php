@@ -29,7 +29,7 @@
                     <button type="submit" class="btn btn-primary">Registrarse</button>
                     <br>
                     <div class="form-group">
-                        <p class="text-center py-3"> ¿Ya tienes una cuenta | <a href="">ingreso</a></p>
+                        <p class="text-center py-3"> ¿Ya tienes una cuenta | <a href="index.php?controlador=paginas&accion=login">ingreso</a></p>
                     </div>
                 </form>
             </div>
