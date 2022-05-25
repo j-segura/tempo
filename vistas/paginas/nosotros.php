@@ -1,0 +1,1 @@
+<h1>Soy la pagina de informacion</h1>
